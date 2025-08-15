@@ -1,3 +1,4 @@
+```markdown
 # FORGETTING: A New Mechanism Towards Better Large Language Model Fine-Tuning
 
 <a href='https://github.com/AliTaheri2002/Forgetting-A-New-Mechanism-Towards-Better-Large-Language-Model-Fine-tuning'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
@@ -11,6 +12,15 @@ Isfahan University of Technology, Hong Kong Baptist University, University of Te
 ### Brief Introduction
 
 This project investigates a novel forgetting mechanism for supervised fine-tuning of large language models. Our method categorizes tokens into positive and negative sets based on influence scores, then learns from positive tokens while actively forgetting negative tokens. This approach maintains full dataset scale while establishing clearer knowledge boundaries, leading to improved generalization and performance across multiple benchmarks.
+
+## Dataset
+
+The dataset used in this work is available at: https://huggingface.co/datasets/Aligh1380/forgetting-llm-dataset
+
+```python
+from datasets import load_dataset
+dataset = load_dataset("Aligh1380/forgetting-llm-dataset")
+```
 
 ## Overview
 
@@ -66,4 +76,5 @@ Performance improvements over standard SFT:
   journal={arXiv preprint arXiv:2508.04329},
   year={2025}
 }
+```
 ```
