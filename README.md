@@ -1,4 +1,3 @@
-```markdown
 # FORGETTING: A New Mechanism Towards Better Large Language Model Fine-Tuning
 
 <a href='https://github.com/AliTaheri2002/Forgetting-A-New-Mechanism-Towards-Better-Large-Language-Model-Fine-tuning'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
