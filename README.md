@@ -76,4 +76,3 @@ Performance improvements over standard SFT:
   year={2025}
 }
 ```
-```
