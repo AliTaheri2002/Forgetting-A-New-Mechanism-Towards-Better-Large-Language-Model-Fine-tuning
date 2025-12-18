@@ -1,7 +1,10 @@
 # FORGETTING: A New Mechanism Towards Better Large Language Model Fine-Tuning
+
 <a href='https://github.com/AliTaheri2002/Forgetting-A-New-Mechanism-Towards-Better-Large-Language-Model-Fine-tuning'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/abs/2508.04329'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
-[Ali Taheri](https://alitaheri2002.github.io/), [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/).
+
+[Ali Taheri](https://alitaheri2002.github.io/), [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/)
+
 Isfahan University of Technology, Hong Kong Baptist University, University of Technology Sydney, Simon Fraser University, The University of Sydney
 -----
 ### Brief Introduction
