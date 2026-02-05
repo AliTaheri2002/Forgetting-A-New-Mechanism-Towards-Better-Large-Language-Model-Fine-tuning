@@ -5,7 +5,7 @@
 
 [Ali Taheri](https://alitaheri2002.github.io/), [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/)
 
-Isfahan University of Technology, RIKEN AIP,Hong Kong Baptist University, University of Technology Sydney, Simon Fraser University, The University of Sydney
+Isfahan University of Technology, RIKEN AIP, Hong Kong Baptist University, University of Technology Sydney, Simon Fraser University, The University of Sydney
 -----
 ### Brief Introduction
 This project investigates a novel forgetting mechanism for supervised fine-tuning of large language models. Our method categorizes tokens into positive and negative sets based on influence scores, then learns from positive tokens while actively forgetting negative tokens. This approach maintains full dataset scale while establishing clearer knowledge boundaries, leading to improved generalization and performance across multiple benchmarks.
