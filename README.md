@@ -1,7 +1,6 @@
 # FORGETTING: A New Mechanism Towards Better Large Language Model Fine-Tuning
 <a href='https://github.com/AliTaheri2002/Forgetting-A-New-Mechanism-Towards-Better-Large-Language-Model-Fine-tuning'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://openreview.net/pdf?id=s36smEoUoX'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
-<a href='https://openreview.net/forum?id=s36smEoUoX'><img src='https://img.shields.io/badge/OpenReview-Forum-red'></a>
 <a href='https://openreview.net/forum?id=s36smEoUoX'><img src='https://img.shields.io/badge/TMLR-2026-blue'></a>
 
 [Ali Taheri](https://alitaheri2002.github.io/), [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/)
