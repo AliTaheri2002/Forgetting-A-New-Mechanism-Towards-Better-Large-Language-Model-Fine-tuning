@@ -60,10 +60,14 @@ Performance improvements over standard SFT:
 
 ## Citation
 ```bibtex
-@article{taheri2026forgetting,
+@article{
+  taheri2026forgetting,
   title={Forgetting: A New Mechanism Towards Better Large Language Model Fine-tuning},
-  author={Taheri, Ali and Taban, Alireza and Wang, Qizhou and Ye, Shanshan and Mirzaei, Abdolreza and Liu, Tongliang and Han, Bo},
+  author={Ali Taheri and Alireza Taban and Qizhou Wang and Shanshan Ye and Abdolreza Mirzaei and Tongliang Liu and Bo Han},
   journal={Transactions on Machine Learning Research},
-  year={2026}
+  issn={2835-8856},
+  year={2026},
+  url={https://openreview.net/forum?id=s36smEoUoX},
+  note={J2C Certification}
 }
 ```
