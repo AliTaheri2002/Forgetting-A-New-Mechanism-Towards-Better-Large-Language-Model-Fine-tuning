@@ -4,6 +4,7 @@
 <a href='https://openreview.net/forum?id=s36smEoUoX'><img src='https://img.shields.io/badge/TMLR-2026-blue'></a>
 <a href='https://openreview.net/forum?id=s36smEoUoX'><img src='https://img.shields.io/badge/J2C-Certified-purple'></a>
 
+
 [Ali Taheri](https://alitaheri2002.github.io/), [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/)
 
 Max Planck Institute for Software Systems, Isfahan University of Technology, RIKEN AIP, Hong Kong Baptist University, University of Technology Sydney, Simon Fraser University, The University of Sydney
